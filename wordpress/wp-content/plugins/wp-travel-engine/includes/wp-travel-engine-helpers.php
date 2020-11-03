@@ -1095,6 +1095,11 @@ function wte_get_active_single_trip_tabs() {
 
 	$settings  = get_option( 'wp_travel_engine_settings', true );
 	$post_meta = get_post_meta( $post->ID, 'wp_travel_engine_setting', true );
+
+	if ( ! isset( $settings['trip_tabs']['id'] ) || ! is_array( $settings['trip_tabs']['id'] ) ) {
+		return false;
+	}
+
 	if ( empty( array_filter( $settings['trip_tabs']['id'] ) ) ) {
 		return false;
 	}

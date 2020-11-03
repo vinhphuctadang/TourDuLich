@@ -5,7 +5,7 @@ Tags: tour-booking, tour-operator, travel, travel-booking, travel-agency
 Requires at least: 4.4.0
 Tested up to: 5.5
 Requires PHP: 5.6
-Stable tag: 4.1.9
+Stable tag: 4.2.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -165,6 +165,11 @@ As the plugin itself provides a simple and clean design, you can easily modify i
 5. Frontend Booking Form.
 
 == Changelog ==
+
+= 4.2.0 - 2nd November 2020 =
+* Enhancements - Booking calander screen enhancements and fixes. 
+* Enhancements - EDD compatibility for latest version added.
+* Fixes - Minor Bug Fixes.
 
 = 4.1.9 - 8th October 2020 =
 * New Feature - BACS and Check Payment Gateway Support Added

@@ -434,3 +434,63 @@ function addCommas(nStr) {
     }
     return x1 + x2;
 }
+
+// Trip page view detail section.
+(function () {
+    function fadeOut(element, cb) {
+        var opacity = 1;
+        function decrease() {
+            opacity -= 0.05;
+            if (opacity <= 0) {
+                // complete
+                element.style.removeProperty('opacity');
+                element.style.display = 'none'
+
+                cb()
+                return
+            }
+            element.style.opacity = opacity;
+            requestAnimationFrame(decrease);
+        }
+        decrease();
+    }
+
+    var toggleContainers = document.querySelectorAll('.wpte-bf-toggle-wrap')
+
+    function hideTogggleContainer(element, cb) {
+        return function eventHandler(event) {
+            var contentEl = element.querySelector('.wpte-bf-toggle-content')
+
+            if (element.className.indexOf('wpte-bf-active') > -1) {
+                fadeOut(contentEl, function () {
+                    document.removeEventListener('click', eventHandler)
+                    element.classList.remove('wpte-bf-active')
+                    cb()
+                })
+                return
+            }
+            element.className.indexOf('wpte-bf-active') < 0 ? element.classList.add('wpte-bf-active') : element.classList.remove('wpte-bf-active')
+            cb()
+        }
+    }
+
+    toggleContainers && toggleContainers.forEach(function (tc) {
+        var toggler = tc.querySelector('.wpte-bf-toggle-title')
+        var contentEl = tc.querySelector('.wpte-bf-toggle-content')
+        var closeBtn = tc.querySelector('.wpte-bf-toggle-close')
+        closeBtn && closeBtn.addEventListener('click', function (event) {
+            event.preventDefault()
+            hideTogggleContainer(tc)
+        })
+        toggler && toggler.addEventListener('click', function (event) {
+            document.addEventListener('click', hideTogggleContainer(tc, function () {
+                var span = toggler.querySelector('.wtebf-toggle-title')
+                var activeSpan = toggler.querySelector('.wtebf-toggle-title-active')
+                if (activeSpan)
+                    activeSpan.style.display = tc.className.indexOf('wpte-bf-active') > -1 ? 'block' : 'none'
+                if (span)
+                    span.style.display = tc.className.indexOf('wpte-bf-active') < 0 ? 'block' : 'none'
+            }))
+        })
+    })
+})()

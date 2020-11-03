@@ -3733,3 +3733,20 @@ TOAST MESSAGE STYLE
         margin: 0;
     }
 }
+
+/* Single Page - View cost Detail Section */
+.wpte-bf-toggle-close {
+    color: #721c24;
+    background: #f8d7da;
+    border-color: #f5c6cb;
+    line-height: 1;
+    border-radius: 2px;
+    padding: 5px 10px;
+    position: absolute;
+    right: 0;
+}
+.wpte-bf-toggle-close:hover {
+    color: #383d41;
+    background: #e2e3e5;
+    border-color: #d6d8db;
+}

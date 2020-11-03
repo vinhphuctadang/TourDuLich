@@ -459,7 +459,7 @@ class WP_Travel_Engine_Template_Hooks {
 					<ins>
 				<?php echo wp_travel_engine_get_formated_price_with_currency_code_symbol( $price ); ?></b>
 			</ins>
-			<span class="wpte-bf-pqty">Per <?php echo esc_html( $multiple_pricing['label'] ); ?></span>
+			<span class="wpte-bf-pqty"><?php esc_html_e( 'Per', 'wp-travel-engine' ); ?> <?php echo esc_html( $multiple_pricing['label'] ); ?></span>
 		</div>
 
 				<?php

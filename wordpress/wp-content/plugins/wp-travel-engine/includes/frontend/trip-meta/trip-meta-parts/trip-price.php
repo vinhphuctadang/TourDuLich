@@ -97,6 +97,7 @@
 							<span><?php _e( 'View Cost Detail', 'wp-travel-engine' ); ?></span>
 						</button>
 						<div class="wpte-bf-toggle-content">
+							<button class="wpte-bf-toggle-close wpte-btn">X</button>
 							<table class="wpte-bf-travellers-price-table">
 								<caption><?php _e( 'Travellers', 'wp-travel-engine' ); ?></caption>
 								<tbody>

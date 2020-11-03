@@ -3,9 +3,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: WordPress Travel Booking Plugin - WP Travel Engine "
-"4.1.9\n"
+"4.2.0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-08 08:00:21+00:00\n"
+"POT-Creation-Date: 2020-11-03 10:27:16+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -40,21 +40,21 @@ msgstr ""
 msgid "5"
 msgstr ""
 
-#: EDD_SL_Plugin_Updater.php:266
+#: EDD_SL_Plugin_Updater.php:250
 msgid "There is a new version of %1$s available. %2$sView version %3$s details%4$s."
 msgstr ""
 
-#: EDD_SL_Plugin_Updater.php:274
+#: EDD_SL_Plugin_Updater.php:258
 msgid ""
 "There is a new version of %1$s available. %2$sView version %3$s details%4$s "
 "or %5$supdate now%6$s."
 msgstr ""
 
-#: EDD_SL_Plugin_Updater.php:517
+#: EDD_SL_Plugin_Updater.php:502
 msgid "You do not have permission to install plugin updates"
 msgstr ""
 
-#: EDD_SL_Plugin_Updater.php:517
+#: EDD_SL_Plugin_Updater.php:502
 msgid "Error"
 msgstr ""
 
@@ -910,7 +910,7 @@ msgstr ""
 #: admin/meta-parts/trip-tabs/dates-upsell.php:30
 #: admin/meta-parts/trip-tabs/extra-services.php:25
 #: admin/meta-parts/trip-tabs/file-downloads.php:22
-#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:118
+#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:119
 #: includes/onboard-process/views/onboard-process.php:330
 msgid "Continue"
 msgstr ""
@@ -1480,7 +1480,7 @@ msgid "Cancelled"
 msgstr ""
 
 #: includes/backend/booking/booking-parts/payment-details.php:17
-#: includes/wp-travel-engine-helpers.php:1733
+#: includes/wp-travel-engine-helpers.php:1738
 msgid "Pending"
 msgstr ""
 
@@ -1489,7 +1489,7 @@ msgid "Partially Paid"
 msgstr ""
 
 #: includes/backend/booking/booking-parts/payment-details.php:19
-#: includes/wp-travel-engine-helpers.php:1741
+#: includes/wp-travel-engine-helpers.php:1746
 msgid "Refunded"
 msgstr ""
 
@@ -1525,7 +1525,7 @@ msgid "Payment Status"
 msgstr ""
 
 #: includes/backend/booking/booking-parts/payment-details.php:41
-#: includes/wp-travel-engine-helpers.php:1749
+#: includes/wp-travel-engine-helpers.php:1754
 msgid "N/A"
 msgstr ""
 
@@ -4463,7 +4463,7 @@ msgid "Select a Date"
 msgstr ""
 
 #: includes/frontend/trip-meta/class-wp-travel-engine-meta-tags.php:141
-#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:101
+#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:102
 #: public/class-wp-travel-engine-template-hooks.php:136
 msgid "Travellers"
 msgstr ""
@@ -4518,7 +4518,7 @@ msgstr ""
 #: includes/frontend/trip-meta/trip-meta-parts/trip-price-bak.php:124
 #: includes/frontend/trip-meta/trip-meta-parts/trip-price-bak.php:130
 #: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:86
-#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:111
+#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:112
 #: includes/templates/account/remaining-payment.php:23
 #: includes/templates/account/tab-content/bookings.php:64
 #: includes/templates/content-cart.php:60
@@ -4534,17 +4534,17 @@ msgstr ""
 msgid "View Cost Detail"
 msgstr ""
 
-#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:104
+#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:105
 #: public/class-wp-travel-engine-template-hooks.php:485
 #: public/class-wp-travel-engine-template-hooks.php:494
 msgid "Person"
 msgstr ""
 
-#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:130
+#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:131
 msgid "Need Help With Booking?"
 msgstr ""
 
-#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:132
+#: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:133
 msgid "Send Us A Message"
 msgstr ""
 
@@ -4566,7 +4566,7 @@ msgstr ""
 #: includes/frontend/trip-meta/trip-meta-parts/trip-tabs.php:503
 #. translators: %s: id of current post
 msgid ""
-"Edit\n"
+"Edit\r\n"
 "                    <span class=\"screen-reader-text\"> \"%s\"</span>"
 msgstr ""
 
@@ -4871,19 +4871,19 @@ msgstr ""
 
 #: includes/privacy-functions.php:53
 msgid ""
-"\n"
+"\r\n"
 "\tWe collect information about you during the checkout process on our "
 "store. This information may include, but is not limited to, your name, "
 "billing address, shipping address, email address, phone number, credit "
 "card/payment details and any other details that might be requested from you "
-"for the purpose of processing your orders.\n"
-"\tHandling this data also allows us to:\n"
-"\t- Send you important account/order/service information.\n"
-"\t- Respond to your queries, refund requests, or complaints.\n"
+"for the purpose of processing your orders.\r\n"
+"\tHandling this data also allows us to:\r\n"
+"\t- Send you important account/order/service information.\r\n"
+"\t- Respond to your queries, refund requests, or complaints.\r\n"
 "\t- Process payments and to prevent fraudulent transactions. We do this on "
-"the basis of our legitimate business interests.\n"
+"the basis of our legitimate business interests.\r\n"
 "\t- Set up and administer your account, provide technical and/or customer "
-"support, and to verify your identity.\n"
+"support, and to verify your identity.\r\n"
 "\t"
 msgstr ""
 
@@ -5202,7 +5202,7 @@ msgid "pending"
 msgstr ""
 
 #: includes/templates/account/tab-content/bookings.php:57
-#: includes/wp-travel-engine-helpers.php:1737
+#: includes/wp-travel-engine-helpers.php:1742
 msgid "Booked"
 msgstr ""
 
@@ -5608,7 +5608,7 @@ msgstr ""
 #: includes/templates/single-trip/trip-footer.php:20
 #. translators: %s: id of current post
 msgid ""
-"Edit\n"
+"Edit\r\n"
 "    <span class=\"screen-reader-text\"> \"%s\"</span>"
 msgstr ""
 
@@ -5814,15 +5814,15 @@ msgstr ""
 msgid "Cost"
 msgstr ""
 
-#: includes/wp-travel-engine-helpers.php:1354
+#: includes/wp-travel-engine-helpers.php:1359
 msgid "New Account Created"
 msgstr ""
 
-#: includes/wp-travel-engine-helpers.php:1704
+#: includes/wp-travel-engine-helpers.php:1709
 msgid "Custom Tab"
 msgstr ""
 
-#: includes/wp-travel-engine-helpers.php:1745
+#: includes/wp-travel-engine-helpers.php:1750
 msgid "Canceled"
 msgstr ""
 
@@ -5913,6 +5913,10 @@ msgstr ""
 
 #: public/class-wp-travel-engine-public.php:538
 msgid "Update cart"
+msgstr ""
+
+#: public/class-wp-travel-engine-template-hooks.php:462
+msgid "Per"
 msgstr ""
 
 #: public/class-wp-travel-engine-template-hooks.php:562
@@ -6189,7 +6193,7 @@ msgid_plural "%s Nights"
 msgstr[0] ""
 msgstr[1] ""
 
-#: includes/wp-travel-engine-helpers.php:1621
+#: includes/wp-travel-engine-helpers.php:1626
 #. translators: %s: human-readable time difference
 msgctxt "%s = human-readable time difference"
 msgid "%s ago"

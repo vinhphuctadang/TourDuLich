@@ -2169,7 +2169,7 @@ class Wp_Travel_Engine_Admin
 				}
 			}
 
-			update_option( 'wp_travel_engine_settings', $global_settings_merged_with_saved );
+			update_option( 'wp_travel_engine_settings', wp_unslash( $global_settings_merged_with_saved ) );
 
 			/**
 			 * Hook for addons global settings.
