@@ -1,0 +1,120 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Tập tin được chọn không tải lên được.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/tourdulich/wordpress
+Data file = C:\xampp\htdocs\tourdulich\wordpress/wp-content/uploads/2020/10/traveltour-content.xml
+Widget file = C:\xampp\htdocs\tourdulich\wordpress/wp-content/uploads/2020/10/traveltour-widget.wie
+Customizer file = C:\xampp\htdocs\tourdulich\wordpress/wp-content/uploads/2020/10/traveltour-customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+WP Travel Engine Sidebar : 
+
+Ảnh - No Title - Imported
+
+Right Sidebar : 
+
+Blossom: Recent Post - Recent Posts - Imported
+Blossom: Posts Category Slider - Trekking - Imported
+Blossom: Custom Categories - Adventure - Imported
+Blossom: Popular Post - Popular Post - Imported
+
+Testimonials : 
+
+Blossom: Testimonial - No Title - Imported
+Blossom: Testimonial - No Title - Imported
+Blossom: Testimonial - No Title - Imported
+
+Footer Widget : 
+
+Văn bản - Contact Info - Imported
+Thanh điều hướng - Trip Types - Imported
+Thanh điều hướng - Destinations - Imported
+Thanh điều hướng - Activities - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
