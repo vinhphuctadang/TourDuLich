@@ -3,7 +3,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Project-Id-Version: Travel Tour Pro\n"
 "POT-Creation-Date: 2018-08-30 12:58+0545\n"
-"PO-Revision-Date: 2020-11-03 11:15+0000\n"
+"PO-Revision-Date: 2020-11-04 02:07+0000\n"
 "Last-Translator: \n"
 "Language-Team: Tiếng Việt\n"
 "MIME-Version: 1.0\n"
@@ -975,7 +975,7 @@ msgstr ""
 #: layouts/homepage/about/about-layout-one.php:9
 #: template-parts/content-blogs.php:36 template-parts/content.php:55
 msgid "Read More"
-msgstr ""
+msgstr "Xem thêm"
 
 #: layouts/homepage/slider/slider-layout-one.php:17
 #: layouts/homepage/slider/slider-layout-three.php:17
@@ -987,27 +987,27 @@ msgstr ""
 #: layouts/homepage/trips/trip-layout-three.php:24
 #: layouts/homepage/trips/trip-layout-two.php:24
 msgid "Duration: "
-msgstr ""
+msgstr "Thời gian: "
 
 #: layouts/homepage/trips/trip-layout-one.php:27
 #: layouts/homepage/trips/trip-layout-three.php:27
 #: layouts/homepage/trips/trip-layout-two.php:27 trip-results.php:328
 #: trip-results.php:919
 msgid " days"
-msgstr ""
+msgstr " ngày"
 
 #: layouts/homepage/trips/trip-layout-one.php:29
 #: layouts/homepage/trips/trip-layout-three.php:29
 #: layouts/homepage/trips/trip-layout-two.php:29 trip-results.php:328
 #: trip-results.php:919
 msgid " day"
-msgstr "The following required plugins are currently inactive: %1$s."
+msgstr " ngày"
 
 #: layouts/homepage/trips/trip-layout-one.php:35
 #: layouts/homepage/trips/trip-layout-three.php:35
 #: layouts/homepage/trips/trip-layout-two.php:35
 msgid " nights"
-msgstr ""
+msgstr " đêm"
 
 #: layouts/homepage/trips/trip-layout-one.php:37
 #: layouts/homepage/trips/trip-layout-three.php:37
@@ -1019,7 +1019,7 @@ msgstr ""
 #: layouts/homepage/trips/trip-layout-three.php:57
 #: layouts/homepage/trips/trip-layout-two.php:57
 msgid "Price: "
-msgstr "Giá từ:"
+msgstr "Giá từ: "
 
 #: no-featureimage.php:26 template-parts/content-page.php:21
 #: template-parts/content-single.php:69
@@ -1037,7 +1037,7 @@ msgstr ""
 
 #: searchform.php:4
 msgid "Search &hellip;"
-msgstr ""
+msgstr "Tìm kiếm..."
 
 #: searchform.php:7
 msgid "Search"
@@ -1114,7 +1114,7 @@ msgstr ""
 
 #: trip-results.php:194 trip-results.php:745
 msgid "Duration"
-msgstr ""
+msgstr "Thời gian"
 
 #: trip-results.php:264 trip-results.php:855
 msgid " trip(s) found"
