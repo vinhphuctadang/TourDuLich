@@ -3,7 +3,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Project-Id-Version: Travel Tour Pro\n"
 "POT-Creation-Date: 2018-08-30 12:58+0545\n"
-"PO-Revision-Date: 2020-11-04 02:06+0000\n"
+"PO-Revision-Date: 2020-11-04 04:06+0000\n"
 "Last-Translator: \n"
 "Language-Team: Tiếng Việt\n"
 "MIME-Version: 1.0\n"
@@ -1013,7 +1013,7 @@ msgstr " đêm"
 #: layouts/homepage/trips/trip-layout-three.php:37
 #: layouts/homepage/trips/trip-layout-two.php:37
 msgid " night"
-msgstr ""
+msgstr "đêm"
 
 #: layouts/homepage/trips/trip-layout-one.php:57
 #: layouts/homepage/trips/trip-layout-three.php:57
@@ -1037,7 +1037,7 @@ msgstr ""
 
 #: searchform.php:4
 msgid "Search &hellip;"
-msgstr ""
+msgstr "Tìm kiếm..."
 
 #: searchform.php:7
 msgid "Search"

@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2020-11-04 02:45+0000\n"
+"PO-Revision-Date: 2020-11-04 05:19+0000\n"
 "Last-Translator: \n"
 "Language-Team: Tiếng Việt\n"
 "X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
@@ -239,14 +239,14 @@ msgstr ""
 #: includes/backend/booking/booking-parts/trip-info.php:19
 #: includes/backend/booking/booking-parts/trip-info.php:59
 msgid "Trip Name"
-msgstr ""
+msgstr "Tên chuyến đi"
 
 #: admin/class-wp-travel-engine-admin.php:392
 #: includes/backend/booking/booking-parts/trip-info.php:35
 #: includes/backend/booking/booking-parts/trip-info.php:83
 #: includes/templates/checkout/header-steps.php:17
 msgid "Travelers"
-msgstr ""
+msgstr "Du khách"
 
 #: admin/class-wp-travel-engine-admin.php:393
 #: admin/class-wp-travel-engine-admin.php:1006
@@ -274,7 +274,7 @@ msgstr ""
 #: includes/backend/booking/booking-parts/trip-info.php:107
 #: includes/templates/emails/booking.php:18
 msgid "Total Cost"
-msgstr ""
+msgstr "Tổng chi phí"
 
 #: admin/class-wp-travel-engine-admin.php:409
 #: admin/class-wp-travel-engine-admin.php:1784 admin/meta-parts/enquiry.php:64
@@ -334,7 +334,7 @@ msgstr ""
 #: includes/wp-travel-engine-form-fields.php:244
 #: includes/wp-travel-engine-form-fields.php:551
 msgid "Country"
-msgstr ""
+msgstr "Quốc gia"
 
 #: admin/class-wp-travel-engine-admin.php:608
 #: includes/dashboard/class-wp-travel-engine-user-account.php:38
@@ -538,7 +538,7 @@ msgstr ""
 #: admin/class-wp-travel-engine-admin.php:1455
 #: includes/backend/booking/booking-parts/trip-info.php:51
 msgid "Trip ID"
-msgstr ""
+msgstr "ID chuyến đi:"
 
 #: admin/class-wp-travel-engine-admin.php:1533
 msgid "WP Travel Engine Message: "
@@ -582,7 +582,7 @@ msgstr ""
 #: admin/class-wp-travel-engine-admin.php:1764 admin/meta-parts/enquiry.php:28
 #: admin/meta-parts/enquiry.php:44
 msgid "Package Name"
-msgstr ""
+msgstr "Tên gói"
 
 #: admin/class-wp-travel-engine-admin.php:1774 admin/meta-parts/enquiry.php:54
 #: includes/privacy-functions.php:113
@@ -1037,7 +1037,7 @@ msgstr ""
 #: admin/meta-parts/trip-tabs/general.php:44
 #: admin/meta-parts/trip-tabs/general.php:92
 msgid "Days"
-msgstr ""
+msgstr "Ngày"
 
 #: admin/meta-parts/trip-tabs/general.php:50
 msgid "Duration"
@@ -1469,7 +1469,7 @@ msgstr ""
 #: includes/templates/account/tab-content/dashboard.php:32
 #: includes/templates/account/tab-content/dashboard.php:61
 msgid "Edit"
-msgstr ""
+msgstr "Chỉnh sửa"
 
 #: includes/backend/booking/booking-parts/customer-details.php:48
 msgid "Customer details not found. Click \"Edit\" to fill details."
@@ -1575,7 +1575,7 @@ msgstr ""
 #: includes/backend/booking/booking-parts/trip-info.php:75
 #: includes/templates/emails/booking.php:6
 msgid "Trip Start Date"
-msgstr ""
+msgstr "Chuyến bắt đầu vào ngày"
 
 #: includes/backend/booking/booking-parts/trip-info.php:120
 msgid "Coupon Discounts"
@@ -1638,7 +1638,7 @@ msgstr ""
 #: includes/wp-travel-engine-form-fields.php:463
 #: includes/wp-travel-engine-form-fields.php:648
 msgid "First Name"
-msgstr ""
+msgstr "Họ"
 
 #: includes/backend/booking/booking.php:58
 #: includes/backend/booking/booking.php:186
@@ -1654,7 +1654,7 @@ msgstr ""
 #: includes/wp-travel-engine-form-fields.php:478
 #: includes/wp-travel-engine-form-fields.php:663
 msgid "Last Name"
-msgstr ""
+msgstr "Tên"
 
 #: includes/backend/booking/booking.php:70
 #: includes/backend/booking/booking.php:192
@@ -1668,7 +1668,7 @@ msgstr ""
 #: includes/wp-travel-engine-form-fields.php:93
 #: includes/wp-travel-engine-form-fields.php:522
 msgid "Address"
-msgstr ""
+msgstr "Địa chỉ"
 
 #: includes/backend/booking/booking.php:76
 #: includes/backend/booking/customer.php:43
@@ -1681,7 +1681,7 @@ msgstr ""
 #: includes/wp-travel-engine-form-fields.php:113
 #: includes/wp-travel-engine-form-fields.php:537
 msgid "City"
-msgstr ""
+msgstr "Thành phố"
 
 #: includes/backend/booking/booking.php:84
 #: includes/class-wp-travel-engine-confirmation.php:512
@@ -2677,7 +2677,7 @@ msgstr ""
 
 #: includes/class-wp-travel-engine-archive-hooks.php:65
 msgid "View by :"
-msgstr ""
+msgstr "Xem bởi"
 
 #: includes/class-wp-travel-engine-archive-hooks.php:82
 msgid "Default Sorting"
@@ -2717,7 +2717,7 @@ msgstr ""
 
 #: includes/class-wp-travel-engine-archive-hooks.php:94
 msgid "List by :"
-msgstr ""
+msgstr "Liệt kê bởi :"
 
 #: includes/class-wp-travel-engine-archive-hooks.php:95
 msgid "Trip order"
@@ -2817,7 +2817,7 @@ msgstr ""
 #: includes/class-wp-travel-engine-enquiry-form-shortcodes.php:57
 #: includes/wp-travel-engine-form-fields.php:341
 msgid "Package name:"
-msgstr ""
+msgstr "Tên gói: "
 
 #: includes/class-wp-travel-engine-enquiry-form-shortcodes.php:82
 #: includes/class-wp-travel-engine-enquiry-form-shortcodes.php:101
@@ -2841,11 +2841,11 @@ msgstr ""
 
 #: includes/class-wp-travel-engine-enquiry-form-shortcodes.php:110
 msgid "You can send your enquiry via the form below."
-msgstr ""
+msgstr "Bạn có thể gửi yêu cầu theo mẫu bên dưới."
 
 #: includes/class-wp-travel-engine-enquiry-form-shortcodes.php:128
 msgid "Send Email"
-msgstr ""
+msgstr "Gửi email"
 
 #: includes/class-wp-travel-engine-enquiry-form-shortcodes.php:148
 msgid "Invalid Action"
@@ -3624,17 +3624,17 @@ msgstr ""
 
 #: includes/class-wp-travel-engine-functions.php:1205
 msgid "Enter Your Contact Number"
-msgstr ""
+msgstr "Nhập số liên lạc của bạn"
 
 #: includes/class-wp-travel-engine-functions.php:1211
 msgid "Enter Number of Adults"
-msgstr ""
+msgstr "Nhập số người lớn"
 
 #: includes/class-wp-travel-engine-functions.php:1217
 #: includes/class-wte-default-form-fields.php:109
 #: includes/wp-travel-engine-form-fields.php:298
 msgid "Enter Number of Children"
-msgstr ""
+msgstr "Nhập số trẻ em"
 
 #: includes/class-wp-travel-engine-functions.php:1221
 #: includes/class-wte-default-form-fields.php:134
@@ -3673,16 +3673,16 @@ msgstr ""
 #: includes/class-wp-travel-engine-mail.php:171
 #: includes/templates/emails/booking.php:38
 msgid "Trip Name: {trip_url}"
-msgstr ""
+msgstr "Tên chuyến đi : {trip_url}"
 
 #: includes/class-wp-travel-engine-mail.php:172
 msgid "Trip Cost: {tprice}"
-msgstr ""
+msgstr "Chi phí chuyến đi: {tprice}"
 
 #: includes/class-wp-travel-engine-mail.php:173
 #: includes/class-wp-travel-engine-mail.php:326
 msgid "Trip Start Date : {tdate}"
-msgstr ""
+msgstr "Chuyến bắt đầu vào ngày : {tdate}"
 
 #: includes/class-wp-travel-engine-mail.php:174
 #: includes/class-wp-travel-engine-mail.php:327
@@ -3701,12 +3701,12 @@ msgstr ""
 #: includes/class-wp-travel-engine-mail.php:177
 #: includes/class-wp-travel-engine-mail.php:330
 msgid "Total Cost: {price}"
-msgstr ""
+msgstr "Tổng chi phí: {price}"
 
 #: includes/class-wp-travel-engine-mail.php:178
 #: includes/class-wp-travel-engine-mail.php:331
 msgid "Thank you."
-msgstr ""
+msgstr "Cảm ơn."
 
 #: includes/class-wp-travel-engine-mail.php:179
 #: includes/class-wp-travel-engine-mail.php:332
@@ -3719,11 +3719,11 @@ msgstr ""
 
 #: includes/class-wp-travel-engine-mail.php:324
 msgid "Trip Name : {trip_url}"
-msgstr ""
+msgstr "Tên chuyến đi : {trip_url}"
 
 #: includes/class-wp-travel-engine-mail.php:325
 msgid "Trip Cost:  {tprice}"
-msgstr ""
+msgstr "Chi phí chuyến đi : {tprice}"
 
 #: includes/class-wp-travel-engine-mail.php:329
 msgid "Trip Booking URL: {booking_url}"
@@ -3884,20 +3884,20 @@ msgstr ""
 #: includes/templates/template-booking-thank-you.php:30
 #: includes/templates/thank-you/thankyou-remaining-payment.php:12
 msgid "Trip Details:"
-msgstr ""
+msgstr "Chi tiết chuyến đi:"
 
 #: includes/class-wp-travel-engine-thank-you.php:113
 #: includes/class-wp-travel-engine-thank-you.php:245
 #: includes/templates/template-booking-thank-you.php:47
 msgid "Trip ID:"
-msgstr ""
+msgstr "ID chuyến đi:"
 
 #: includes/class-wp-travel-engine-thank-you.php:117
 #: includes/class-wp-travel-engine-thank-you.php:249
 #: includes/templates/account/tab-content/bookings.php:86
 #: includes/templates/template-booking-thank-you.php:52
 msgid "Trip Name:"
-msgstr ""
+msgstr "Tên chuyến đi :"
 
 #: includes/class-wp-travel-engine-thank-you.php:124
 #: includes/class-wp-travel-engine-thank-you.php:256
@@ -3911,7 +3911,7 @@ msgstr ""
 #: includes/templates/account/tab-content/bookings.php:121
 #: includes/templates/template-booking-thank-you.php:207
 msgid "Total Cost:"
-msgstr ""
+msgstr "Tổng chi phí:"
 
 #: includes/class-wp-travel-engine-thank-you.php:142
 #: includes/class-wp-travel-engine-thank-you.php:274
@@ -3921,7 +3921,7 @@ msgstr ""
 #: includes/class-wp-travel-engine-thank-you.php:146
 #: includes/class-wp-travel-engine-thank-you.php:278
 msgid "Trip Start Date:"
-msgstr ""
+msgstr "Chuyến bắt đầu vào ngày: "
 
 #: includes/class-wp-travel-engine-thank-you.php:150
 #: includes/class-wp-travel-engine-thank-you.php:282
@@ -4018,12 +4018,12 @@ msgstr "Tên của bạn: "
 #: includes/class-wte-default-form-fields.php:27
 #: includes/wp-travel-engine-form-fields.php:217
 msgid "Enter Your Name *"
-msgstr ""
+msgstr "Nhập tên của bạn *"
 
 #: includes/class-wte-default-form-fields.php:42
 #: includes/wp-travel-engine-form-fields.php:231
 msgid "Enter Your Email *"
-msgstr ""
+msgstr "Nhập email của bạn *"
 
 #: includes/class-wte-default-form-fields.php:43
 #: includes/wp-travel-engine-form-fields.php:232
@@ -4038,7 +4038,7 @@ msgstr ""
 #: includes/class-wte-default-form-fields.php:75
 #: includes/wp-travel-engine-form-fields.php:263
 msgid "Enter Your Contact Number*"
-msgstr ""
+msgstr "Nhập số liên lạc của bạn*"
 
 #: includes/class-wte-default-form-fields.php:88
 #: includes/wp-travel-engine-form-fields.php:276
@@ -4048,7 +4048,7 @@ msgstr ""
 #: includes/class-wte-default-form-fields.php:92
 #: includes/wp-travel-engine-form-fields.php:280
 msgid "Enter Number of Adults*"
-msgstr ""
+msgstr "Nhập số người lớn*"
 
 #: includes/class-wte-default-form-fields.php:105
 #: includes/wp-travel-engine-form-fields.php:294
@@ -4058,15 +4058,19 @@ msgstr ""
 #: includes/class-wte-default-form-fields.php:117
 msgid "Enquiry Subject:"
 msgstr ""
+"\n"
+"Chủ đề yêu cầu:"
 
 #: includes/class-wte-default-form-fields.php:121
 msgid "Enquiry Subject"
 msgstr ""
+"\n"
+"Chủ đề yêu cầu"
 
 #: includes/class-wte-default-form-fields.php:138
 #: includes/wp-travel-engine-form-fields.php:313
 msgid "Enter Your message*"
-msgstr ""
+msgstr "Nhập tin nhắn của bạn*"
 
 #: includes/class-wte-default-form-fields.php:205
 #: includes/class-wte-default-form-fields.php:206
@@ -4362,11 +4366,11 @@ msgstr ""
 
 #: includes/dashboard/class-wp-travel-engine-form-handler.php:336
 msgid "First name"
-msgstr ""
+msgstr "Họ"
 
 #: includes/dashboard/class-wp-travel-engine-form-handler.php:337
 msgid "Last name"
-msgstr ""
+msgstr "Tên"
 
 #: includes/dashboard/class-wp-travel-engine-form-handler.php:338
 msgid "Email address"
@@ -4468,23 +4472,23 @@ msgstr ""
 #: includes/templates/checkout/header-steps.php:13
 #: public/class-wp-travel-engine-template-hooks.php:135
 msgid "Select a Date"
-msgstr ""
+msgstr "Chọn ngày"
 
 #: includes/frontend/trip-meta/class-wp-travel-engine-meta-tags.php:141
 #: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:102
 #: public/class-wp-travel-engine-template-hooks.php:136
 msgid "Travellers"
-msgstr ""
+msgstr "Du khách"
 
 #: includes/frontend/trip-meta/trip-meta-parts/trip-facts-shortcode.php:32
 #: includes/frontend/trip-meta/trip-meta-parts/trip-facts.php:27
 msgid "Trip Facts"
-msgstr ""
+msgstr "Sự kiện chuyến đi"
 
 #: includes/frontend/trip-meta/trip-meta-parts/trip-facts-shortcode.php:79
 #: includes/frontend/trip-meta/trip-meta-parts/trip-facts.php:78
 msgid " days"
-msgstr ""
+msgstr "ngày"
 
 #: includes/frontend/trip-meta/trip-meta-parts/trip-facts-shortcode.php:79
 #: includes/frontend/trip-meta/trip-meta-parts/trip-facts.php:78
@@ -4532,7 +4536,7 @@ msgstr ""
 #: includes/templates/content-cart.php:60
 #: includes/templates/emails/booking.php:105
 msgid "Total"
-msgstr ""
+msgstr "Tổng"
 
 #: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:76
 msgid "Add Travelers"
@@ -4540,7 +4544,7 @@ msgstr ""
 
 #: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:97
 msgid "View Cost Detail"
-msgstr ""
+msgstr "Xem chi tiết chi phí"
 
 #: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:105
 #: public/class-wp-travel-engine-template-hooks.php:485
@@ -4551,15 +4555,17 @@ msgstr " Người"
 #: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:131
 msgid "Need Help With Booking?"
 msgstr ""
+"\n"
+"Cần trợ giúp về việc đặt ?"
 
 #: includes/frontend/trip-meta/trip-meta-parts/trip-price.php:133
 msgid "Send Us A Message"
-msgstr ""
+msgstr "Gửi cho chúng tôi qua tin nhắn"
 
 #: includes/frontend/trip-meta/trip-meta-parts/trip-tabs.php:21
 #: public/class-wp-travel-engine-public.php:510
 msgid " Days"
-msgstr ""
+msgstr " Ngày"
 
 #: includes/frontend/trip-meta/trip-meta-parts/trip-tabs.php:23
 #: public/class-wp-travel-engine-public.php:512
@@ -4576,22 +4582,22 @@ msgstr ""
 msgid ""
 "Edit\n"
 "                    <span class=\"screen-reader-text\"> \"%s\"</span>"
-msgstr ""
+msgstr "Chỉnh sửa \"%s\""
 
 #: includes/helpers/helpers-prices.php:339
 #: includes/helpers/helpers-prices.php:344
 #: includes/templates/template-checkout-new.php:173
 #: includes/wp-travel-engine-helpers.php:344
 msgid "Book Now"
-msgstr ""
+msgstr "Đặt ngay"
 
 #: includes/helpers/helpers-prices.php:362
 msgid "Total:"
-msgstr ""
+msgstr "Tổng: "
 
 #: includes/helpers/helpers-prices.php:458
 msgid "Number of pax in Group"
-msgstr ""
+msgstr "Số lượng khách trong nhóm"
 
 #: includes/lib/wte-form-framework/class-wte-form-field.php:82
 msgid "Text"
@@ -4656,7 +4662,7 @@ msgstr ""
 
 #: includes/lib/wte-form-framework/field-types/class-field-country_dropdown.php:28
 msgid "Choose a country*"
-msgstr ""
+msgstr "Chọn quốc gia*"
 
 #: includes/lib/wte-form-framework/field-types/class-field-trips_list.php:27
 msgid "Choose a Trip"
@@ -4677,7 +4683,7 @@ msgstr ""
 #: includes/onboard-process/views/onboard-process.php:53
 #: includes/templates/checkout/header-steps.php:44
 msgid "Payment"
-msgstr ""
+msgstr "Thanh toán"
 
 #: includes/onboard-process/views/onboard-process.php:57
 msgid "Ready"
@@ -4962,12 +4968,12 @@ msgstr ""
 #: includes/templates/account/form-edit-account.php:30
 #: includes/templates/account/tab-content/bookings.php:128
 msgid "First Name:"
-msgstr ""
+msgstr "Họ: "
 
 #: includes/templates/account/form-edit-account.php:35
 #: includes/templates/account/tab-content/bookings.php:135
 msgid "Last Name:"
-msgstr ""
+msgstr "Tên: "
 
 #: includes/templates/account/form-edit-account.php:45
 msgid "Change Password:"
@@ -4982,7 +4988,7 @@ msgstr ""
 #: includes/templates/content-list.php:58
 #: includes/templates/widgets/content-widget-feat-trip.php:65
 msgid "Off"
-msgstr ""
+msgstr "Giảm giá"
 
 #: includes/templates/account/form-edit-account.php:54
 msgid "Current Password:"
@@ -5014,7 +5020,7 @@ msgstr ""
 #: includes/templates/account/form-edit-billing.php:44
 #: includes/templates/account/tab-content/bookings.php:156
 msgid "City:"
-msgstr ""
+msgstr "Thành phố:"
 
 #: includes/templates/account/form-edit-billing.php:49
 msgid "Zip/Postal Code:"
@@ -5023,7 +5029,7 @@ msgstr ""
 #: includes/templates/account/form-edit-billing.php:54
 #: includes/templates/account/tab-content/bookings.php:163
 msgid "Country:"
-msgstr ""
+msgstr "Quốc gia:"
 
 #: includes/templates/account/form-edit-billing.php:56
 msgid "Select a Country"
@@ -5353,7 +5359,7 @@ msgstr ""
 #: includes/templates/emails/booking.php:76
 #: includes/templates/template-checkout-new.php:68
 msgid "Billing Details"
-msgstr ""
+msgstr "Chi tiết thanh toán"
 
 #: includes/templates/checkout/mini-cart-before-coupon.php:19
 #: includes/templates/checkout/mini-cart.php:21
@@ -5373,7 +5379,7 @@ msgstr ""
 #: includes/templates/checkout/mini-cart-before-coupon.php:70
 #: includes/templates/checkout/mini-cart.php:73
 msgid "Total :"
-msgstr ""
+msgstr "Tổng: "
 
 #: includes/templates/checkout/mini-cart-before-coupon.php:86
 #: includes/templates/checkout/mini-cart.php:89
@@ -5394,7 +5400,7 @@ msgstr ""
 #: includes/templates/checkout/mini-cart-before-coupon.php:149
 #: includes/templates/checkout/mini-cart.php:165
 msgid "Total Payable Now :"
-msgstr ""
+msgstr "Tổng số tiền phải trả ngay :"
 
 #: includes/templates/content-cart.php:14
 msgid "Your cart is currently empty. Please add trips to view your cart."
@@ -5407,7 +5413,7 @@ msgstr ""
 #: includes/templates/content-cart.php:20
 #: includes/templates/content-cart.php:65
 msgid "Checkout"
-msgstr ""
+msgstr "Thủ tục thanh toán"
 
 #: includes/templates/content-cart.php:38
 msgid "Start Date:"
@@ -5573,7 +5579,7 @@ msgstr ""
 
 #: includes/templates/order-form-template.php:287
 msgid "days"
-msgstr ""
+msgstr "ngày"
 
 #: includes/templates/order-form-template.php:288
 #: public/class-wp-travel-engine-public.php:518
@@ -5599,7 +5605,7 @@ msgstr ""
 
 #: includes/templates/order-form-template.php:417
 msgid "Billing Details: "
-msgstr ""
+msgstr "Chi tiết thanh toán:"
 
 #: includes/templates/order-form-template.php:500
 msgid ""
@@ -5619,7 +5625,7 @@ msgstr ""
 msgid ""
 "Edit\n"
 "    <span class=\"screen-reader-text\"> \"%s\"</span>"
-msgstr ""
+msgstr "Chỉnh sửa %s"
 
 #: includes/templates/template-booking-thank-you.php:13
 msgid "Extra Services:"
@@ -5627,15 +5633,15 @@ msgstr ""
 
 #: includes/templates/template-booking-thank-you.php:36
 msgid "Booking ID:"
-msgstr ""
+msgstr "ID đặt chỗ:"
 
 #: includes/templates/template-booking-thank-you.php:66
 msgid "Trip Cost:"
-msgstr ""
+msgstr "Chi phí chuyến đi:"
 
 #: includes/templates/template-booking-thank-you.php:71
 msgid "Trip start date:"
-msgstr ""
+msgstr "Chuyến bắt đầu vào ngày:"
 
 #: includes/templates/template-booking-thank-you.php:99
 msgid "Number of Traveller(s):"
@@ -5676,6 +5682,8 @@ msgid ""
 "id=\"terms-and-conditions\" target=\"_blank\"> Terms and Conditions</a> and "
 "<a href=\"%2$s\" id=\"privacy-policy\" target=\"_blank\">Privacy Policy</a>."
 msgstr ""
+"Check vào hộp thoại để xác nhận bạn đã đọc và đồng ý với Điều khoản và Điều "
+"kiện và Chính sách Bảo mật của chúng tôi."
 
 #: includes/templates/template-checkout-new.php:36
 #: includes/templates/template-checkout-new.php:37
@@ -5726,7 +5734,7 @@ msgstr ""
 
 #: includes/templates/template-checkout.php:144
 msgid "Billing Details:"
-msgstr ""
+msgstr "Chi tiết thanh toán:"
 
 #: includes/templates/thank-you/thank-you.php:62
 msgid "Invalid booking id supplied."
@@ -5738,15 +5746,15 @@ msgstr ""
 
 #: includes/templates/thank-you/thankyou-remaining-payment.php:24
 msgid "Trip start date :"
-msgstr ""
+msgstr "Chuyến bắt đầu vào ngày:"
 
 #: includes/templates/thank-you/thankyou-remaining-payment.php:29
 msgid "Trip Name :"
-msgstr ""
+msgstr "Tên chuyến đi :"
 
 #: includes/templates/thank-you/thankyou-remaining-payment.php:42
 msgid "Total Trip Cost :"
-msgstr ""
+msgstr "Tổng chi phí chuyến đi :"
 
 #: includes/templates/thank-you/thankyou-remaining-payment.php:47
 msgid "Partial Payment #1 :"
@@ -5918,7 +5926,7 @@ msgstr ""
 
 #: public/class-wp-travel-engine-public.php:522
 msgid "Total: "
-msgstr ""
+msgstr "Tổng tiền:"
 
 #: public/class-wp-travel-engine-public.php:538
 msgid "Update cart"
@@ -5926,11 +5934,11 @@ msgstr ""
 
 #: public/class-wp-travel-engine-template-hooks.php:462
 msgid "Per"
-msgstr ""
+msgstr "Mỗi"
 
 #: public/class-wp-travel-engine-template-hooks.php:562
 msgid "Per %1$s"
-msgstr ""
+msgstr "Mỗi %1$s"
 
 #. Plugin Name of the plugin/theme
 msgid "WordPress Travel Booking Plugin - WP Travel Engine"
@@ -6152,7 +6160,7 @@ msgstr[1] ""
 msgctxt "number of travellers"
 msgid "Number of pax in %1$s"
 msgid_plural "Number of pax in %1$s"
-msgstr[0] ""
+msgstr[0] "Số lượng khách ở %1$s"
 msgstr[1] ""
 
 #: includes/templates/account/tab-content/dashboard.php:19
@@ -6169,7 +6177,7 @@ msgstr[1] ""
 msgctxt "trip duration"
 msgid "%1$d Day"
 msgid_plural "%1$d Days"
-msgstr[0] ""
+msgstr[0] "%1$d ngày"
 msgstr[1] ""
 
 #: includes/templates/backup/content-grid.php:87
@@ -6185,14 +6193,14 @@ msgstr[1] ""
 msgctxt "single-trip-title"
 msgid " - %s Day"
 msgid_plural " - %s Days"
-msgstr[0] ""
+msgstr[0] "- %s ngày"
 msgstr[1] ""
 
 #: includes/wp-travel-engine-helpers.php:317
 msgctxt "trip duration days"
 msgid "%s Day"
 msgid_plural "%s Days"
-msgstr[0] ""
+msgstr[0] "% ngày"
 msgstr[1] ""
 
 #: includes/wp-travel-engine-helpers.php:317
